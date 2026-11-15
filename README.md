@@ -1,6 +1,6 @@
 # Monitio
 
-Legal notice and filing notification — Disciplina. by Strategos.
+Strategos tool. Coming soon.
 
 GitHub: https://github.com/ShadowStrike-CTF/monitio
 
