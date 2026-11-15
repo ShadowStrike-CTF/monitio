@@ -1,3 +1,3 @@
-# Monitio — Legal notice and filing notification — Disciplina
+# Monitio — Strategos tool. Coming soon.
 # © 2026 Strategos Pty Ltd. All rights reserved.
 # Aut Viam Inveniam Aut Faciam
